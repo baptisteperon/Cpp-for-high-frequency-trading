@@ -1,0 +1,7 @@
+# Ignore object files and executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.elf
